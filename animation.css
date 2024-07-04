@@ -1,0 +1,8 @@
+:root {
+	--duration: 10s;
+	--size: 80vw;
+	--characters: 14;
+	--font-size: 22px;
+	--delay-character: 0.2s;
+	--text-color-hover: #ff8489;
+}
